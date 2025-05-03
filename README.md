@@ -24,7 +24,7 @@ This project is a compact, microcontroller-based system designed to monitor elec
 
 The system continuously monitors the current flowing through connected loads. If a load exceeds a predefined threshold, the relay is automatically turned off to prevent damage or power waste. The logic runs entirely on a standalone embedded system without needing cloud connectivity.
 
-![System Diagram](docs/system_diagram.png)
+
 
 ## 🧠 How It Works
 
