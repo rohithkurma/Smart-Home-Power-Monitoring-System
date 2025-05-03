@@ -43,7 +43,7 @@ The system continuously monitors the current flowing through connected loads. If
 
 ## 👨‍💻 Author
 
-**Pravalika Patel**  
+**ROHIT KURMA**  
 Electrical Design Engineering | Embedded Systems | PCB Design  
 [LinkedIn](https://www.linkedin.com/in/rohit-kurma-2a7249274/) • [Email](rohitkurma2000@gmail.com)
 ---
