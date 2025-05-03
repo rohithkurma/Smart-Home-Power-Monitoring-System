@@ -33,5 +33,20 @@ The system continuously monitors the current flowing through connected loads. If
 3. The status can be extended to display on a screen or be sent over UART to a logging device.
 4. Sampling occurs at regular intervals with debouncing to avoid false triggers.
 
-## 📁 File Structure
+
+## ✅ Future Improvements
+
+- Add Bluetooth/Wi-Fi support for remote control via mobile app
+- Integrate TFT display using SPI for visual feedback
+- Expand to multi-channel monitoring for whole-house energy analytics
+- Add non-volatile memory logging or SD card storage
+
+## 👨‍💻 Author
+
+**Pravalika Patel**  
+Electrical Design Engineering | Embedded Systems | PCB Design  
+[LinkedIn](https://www.linkedin.com/in/rohit-kurma-2a7249274/) • [Email](rohitkurma2000@gmail.com)
+---
+
+
 
